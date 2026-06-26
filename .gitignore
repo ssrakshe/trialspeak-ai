@@ -1,0 +1,12 @@
+# Secrets — never commit
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output (optional — keep if you want a clean repo)
+output/
