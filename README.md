@@ -2,7 +2,7 @@
 
 **Ask 500,000+ clinical trials anything — in plain English. No SQL required.**
 
-[![Live Demo](https://img.shields.io/badge/▶-Live_Demo-FF4B4B)]([https://your-app-url.streamlit.app](https://trialspeak-ai-mbxy8xxtakg4wc9v29ozfd.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/▶-Live_Demo-FF4B4B)](https://trialspeak-ai-mbxy8xxtakg4wc9v29ozfd.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?logo=openai&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-pgvector-3FCF8E?logo=supabase&logoColor=white)
